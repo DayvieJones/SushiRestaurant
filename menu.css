@@ -125,7 +125,7 @@ p {
 
 .container-dailymenu {
   background: linear-gradient(0deg, rgba(51, 27, 27, 0.7), rgba(0, 0, 0, 0.7)),
-    url(./images-china/Bowl1.jpg);
+    url(./public/Bowl1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -134,7 +134,7 @@ p {
 
 .container-starter {
   background: linear-gradient(0deg, rgba(51, 27, 27, 0.7), rgba(0, 0, 0, 0.7)),
-    url(./images-china/NoodleSoup.jpg);
+    url(./public/NoodleSoup.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -143,7 +143,7 @@ p {
 
 .container-sushi {
   background: linear-gradient(0deg, rgba(51, 27, 27, 0.7), rgba(0, 0, 0, 0.7)),
-    url(./images-china/Sushi1.jpg);
+    url(./public/Sushi1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -152,7 +152,7 @@ p {
 
 .container-sideorders {
   background: linear-gradient(0deg, rgba(51, 27, 27, 0.7), rgba(0, 0, 0, 0.7)),
-    url(./images-china/Sideorders.jpg);
+    url(./public/Sideorders.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

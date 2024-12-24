@@ -91,7 +91,7 @@ a {
   align-items: center;
   height: calc(100vh - 5rem);
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(./images-china/Jp-Hero.jpg);
+    url(./public/Jp-Hero.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -180,7 +180,7 @@ a {
   height: 20rem;
   margin: 2rem 0;
   background: linear-gradient(0deg, rgba(51, 27, 27, 0.7), rgba(0, 0, 0, 0.7)),
-    url(./images-china/Jp-timespan.jpg);
+    url(./public/Jp-timespan.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
